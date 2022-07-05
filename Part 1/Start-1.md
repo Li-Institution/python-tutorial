@@ -24,17 +24,19 @@ When you're in the installation, accept the agreement, and click on **Next** for
 
 Before we make a project, we have to install some useful extensions. Press **Ctrl+Shift+X** (On Mac, Ctrl = Command) to get to the extensions page.
 
-![](https://i.imgur.com/bE83qn8.png)
-
 In the search bar, look up **Python**, and install the extension from Microsoft. Once it's done installing, we can finally make a new file.
 
-![](https://i.imgur.com/MK3cwoT.png)
+![](https://i.imgur.com/bE83qn8.png)
 
 Go to `File -> New File` in the top bar and choose **Python File.** Press **Ctrl+S** to save the file somewhere once you create it.
 
-![](https://i.imgur.com/3DKyVWx.png)
+![](https://i.imgur.com/MK3cwoT.png)
 
 Now you can type `print("Your Text Here")` to print anything you want to the console. Then go to `Run -> Start Debugging` at the top bar and run the file. A terminal window should pop up.
+
+![](https://i.imgur.com/3DKyVWx.png)
+
+
 
 ![](https://i.imgur.com/E5vqBqH.png)
 
