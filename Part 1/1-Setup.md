@@ -32,22 +32,4 @@ Go to `File -> New File` in the top bar and choose **Python File.** Press **Ctrl
 
 ![](https://i.imgur.com/MK3cwoT.png)
 
-Now you can type `print("Your Text Here")` to print anything you want to the console. Then go to `Run -> Start Debugging` at the top bar and run the file. A terminal window should pop up.
-
-![](https://i.imgur.com/3DKyVWx.png)
-
-
-
-![](https://i.imgur.com/E5vqBqH.png)
-
-**Your output will always be the white text under all the blue jargon.*
-
-Once you're done playing around, head over to the next step, where we learn about the basics, starting with Variables.
-
-## Syntax
-
-The syntax is like the "command" used in a line of code. I will be putting a section at the bottom for every lesson to give a review on which syntax we learned. For example, in this lesson, we learned the `print` command.
-
-| Syntax | Description |
-| ----------- | ----------- |
-| `print` | Outputs anything you write in the terminal. |
+Great! You've just created a Python file. All the code you write will be written inside files like these.
